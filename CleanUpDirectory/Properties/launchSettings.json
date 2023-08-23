@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CleanUpDirectory": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Personal\\Desktop\\Workspace 10 true"
+    }
+  }
+}
